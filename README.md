@@ -1,7 +1,8 @@
 ### Hello coders 👋
+
 ## I'am overwhelmed to see you visiting my profile ![](https://komarev.com/ghpvc/?username=nutanaarohi123&color=ff69b4&label=PROFILE+VIEWS)
 I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of Technology👩.
-Everyday I look forward to learning more new things. Always open to connect with interesting people 
+I try to learn new things everyday. Always open to connect with interesting people 
 and learn and help others.
 
 
