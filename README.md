@@ -14,8 +14,8 @@ and learn and help others.
 - 👯 I’m looking to collaborate on further more interesting projects.
 - 💬 Ask me about Github, git , java , c related problems , I will help you out.
 - 📫 you can reach me out through [Linkedlin](https://www.linkedin.com/in/nutan-kumari-789411179)
-- 🥰 Hobbies : 🎨💁‍♀️Follow[Sketching](https://www.instagram.com/art_thehiddentalent/) making [videos](https://youtu.be/15zWXy8Ges8) dancing, expressing my thoughts through my [writing](https://versesdirectfrommyheart.wordpress.com) and love teaching too.
-- ⚡ Fun fact: I love and make meme in short [meme](https://www.instagram.com/ghanta_fark_nhi_parta?igshid=z1h5x0z3ro3v) lover😅
+- 🥰 Hobbies : 🎨💁‍♀️[Sketching](https://www.instagram.com/art_thehiddentalent/), making [videos](https://youtu.be/15zWXy8Ges8) ,dancing and expressing my thoughts through my [writing](https://versesdirectfrommyheart.wordpress.com) and love teaching too.
+- ⚡ Fun fact: I love memes as it energies our stressful life and I also make meme in short [meme](https://www.instagram.com/ghanta_fark_nhi_parta?igshid=z1h5x0z3ro3v) lover😅
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nutanaarohi123&repo=Multi-Functional-Calculator)
