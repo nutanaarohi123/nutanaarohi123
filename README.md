@@ -1,6 +1,13 @@
 ### Hello coders 👋
 ## I'am overwhelmed to see you visiting my profile ![](https://komarev.com/ghpvc/?username=nutanaarohi123&color=ff69b4&label=PROFILE+VIEWS)
-I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of Technology👩. Everyday I look forward to learning more new things. Always open to connect with interesting people and learn and help others.
+I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of Technology👩.
+Everyday I look forward to learning more new things. Always open to connect with interesting people 
+and learn and help others.
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nutanaarohi123&show_icons=true&theme=radical)
+
+
 
 - 🔭 I’m currently working on Open source projects "Competitive Programming and NeoAlgo" under Hactoberfest2020.
 - 🌱 I’m currently learning Python,html,css,php, Javascript and enhancing my skills on Data structure and Algorithms.
@@ -10,10 +17,8 @@ I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of T
 - 🥰 Hobbies : 🎨💁‍♀️Follow[Sketching](https://www.instagram.com/art_thehiddentalent/) making [videos](https://youtu.be/15zWXy8Ges8) dancing, expressing my thoughts through my [writing](https://versesdirectfrommyheart.wordpress.com) and love teaching too.
 - ⚡ Fun fact: I love and make meme in short [meme](https://www.instagram.com/ghanta_fark_nhi_parta?igshid=z1h5x0z3ro3v) lover😅
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nutanaarohi123&show_icons=true&theme=radical)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nutanaarohi123&repo=Multi-Functional-Calculator)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutanaarohi123&layout=compact)](https://githun.com/anuraghazra/github-readme-stats)
 
 
