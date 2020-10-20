@@ -6,7 +6,7 @@ I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of T
 - 🌱 I’m currently learning Python, Javascript and enhancing my skills on Data structure and Algorithms.
 - 👯 I’m looking to collaborate on further more interesting projects.
 - 💬 Ask me about Github, git , java , c related problems , I will help you out.
-- 📫 How to reach me: [Linkedlin](www.linkedin.com/in/nutan-kumari-789411179)
+- 📫 How to reach me: [Linkedlin](https://www.linkedin.com/in/nutan-kumari-789411179)
 - 🥰 Hobbies : Sketching, making videos, dancing, expressing my thoughts through my writing and love teaching too.
 - ⚡ Fun fact: I love and make meme in short meme lover😅
 
