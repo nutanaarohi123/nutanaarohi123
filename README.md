@@ -1,5 +1,5 @@
 ### Hello coders 👋
-![](https://github.com/nutanaarohi123/nutanaarohi123/blob/main/Imgdesign.jpg) ![](https://github.com/nutanaarohi123/nutanaarohi123/blob/main/designbg.jpg)
+![](https://github.com/nutanaarohi123/nutanaarohi123/blob/main/Imgdesign.jpg) 
 ## I'am overwhelmed to see you visiting my profile ![](https://komarev.com/ghpvc/?username=nutanaarohi123&color=ff69b4&label=PROFILE+VIEWS)
 I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of Technology👩.
 I try to learn new things everyday. Always open to connect with interesting people 
@@ -22,4 +22,5 @@ and learn and help others.
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nutanaarohi123&repo=Multi-Functional-Calculator)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutanaarohi123&layout=compact)](https://githun.com/anuraghazra/github-readme-stats)
 
+![](https://github.com/nutanaarohi123/nutanaarohi123/blob/main/designbg.jpg)
 
