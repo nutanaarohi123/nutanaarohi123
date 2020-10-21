@@ -1,6 +1,6 @@
 ### Hello coders 👋
 ![](https://komarev.com/ghpvc/?username=nutanaarohi123&color=ff69b4&label=PROFILE+VIEWS)
-![](https://github.com/nutanaarohi123/nutanaarohi123/blob/main/Imgdesign.jpg) 
+
 
 
 I'm Nutan, I have completed my Btech in ECE this year from Haldia Institute of Technology👩.
